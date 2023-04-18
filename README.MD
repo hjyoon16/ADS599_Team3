@@ -36,9 +36,9 @@ Two different feature-based models using Random Forest and Gradient Boosting alg
 
 Time Series:
 Naïve algorithm, Seasonal Auto-Regressive Integrated Moving Average (SARIMA), and exponential smoothing models are generated for time series prediction for the sale price. Each model is predicted for different brands: Yeezy and Off-White.
- Naive prediction is the simplest approach to time series forecasting, and it assumes that the same value as the most current value will continue in the forecasting period (Shumeli, 2020).
-SARIMA is an extension of Auto-Regressive Integrated with Moving Average (ARIMA) algorithm. ARIMA model applies autocorrection for auto-regression, and the average pattern, or the moving average, is applied to this autocorrected model for forecasting (Shumeli, 2020).
-Exponential smoothing is a popular forecasting method, where, unlike moving average method in ARIMA, the weighted average of all previous values is taken (Shumeli, 2020).
+ Naive prediction is the simplest approach to time series forecasting, and it assumes that the same value as the most current value will continue in the forecasting period.
+SARIMA is an extension of Auto-Regressive Integrated with Moving Average (ARIMA) algorithm. ARIMA model applies autocorrection for auto-regression, and the average pattern, or the moving average, is applied to this autocorrected model for forecasting.
+Exponential smoothing is a popular forecasting method, where, unlike moving average method in ARIMA, the weighted average of all previous values is taken.
 
 **Limitations**
 Dataset limited to StockX

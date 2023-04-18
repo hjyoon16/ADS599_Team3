@@ -55,6 +55,7 @@ The model solution that we have provided will be the best option compared to oth
 
 **Concluding Summary**
 There are plenty of places to sell and trade sneakers however there are not many apps that can share the real-time accurate prediction of sneaker products for customers. With this new app feature for StockX customers will be able gain the leverage of shopping and investing. Stockx is the best ecommerce online store to purchase from. 
+
 **Call To Action**
 We recommend to schedule a call with us or email us to see how this new app feature works.  
 
